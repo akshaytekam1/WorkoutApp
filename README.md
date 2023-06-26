@@ -5,18 +5,13 @@
  ## app screenshot :
  <p aling="center">
  <img src="workout app\1st.png">
-
  <img src="workout app\2nd.png" style="padding-left:20px">
  </p>
  <p aling="center">
  <img src="workout app\3rd.png">
- </p>
- <p aling="center">
  <img src="workout app\4th.png">
  </p>
  <p aling="center">
  <img src="workout app\5th.png">
- </p>
- <p aling="center">
  <img src="workout app\6th.png">
  </p>
