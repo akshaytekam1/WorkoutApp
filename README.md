@@ -5,8 +5,7 @@
  ## app screenshot :
  <p aling="center">
  <img src="workout app\1st.png">
- </p>
- <p aling="center">
+
  <img src="workout app\2nd.png">
  </p>
  <p aling="center">
