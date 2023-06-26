@@ -7,17 +7,17 @@
  <img src="workout app\1st.png">
  </p>
  <p aling="center">
- <img src="workout app\2st.png">
+ <img src="workout app\2nd.png">
  </p>
  <p aling="center">
- <img src="workout app\3st.png">
+ <img src="workout app\3rd.png">
  </p>
  <p aling="center">
- <img src="workout app\4st.png">
+ <img src="workout app\4th.png">
  </p>
  <p aling="center">
- <img src="workout app\5st.png">
+ <img src="workout app\5th.png">
  </p>
  <p aling="center">
- <img src="workout app\6st.png">
+ <img src="workout app\6th.png">
  </p>
